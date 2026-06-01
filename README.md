@@ -1,2 +1,2 @@
 # cspace-platform
-Online app
+Backend for CTO.new project
